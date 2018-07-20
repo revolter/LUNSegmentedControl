@@ -1,5 +1,18 @@
 # LUNSegmentedControl
 
+[Fork](https://github.com/revolter/LUNSegmentedControl/tree/fork) improvements
+-------
+
+- [x] Added shadow delegate ([#18](https://github.com/Stormotion-Mobile/LUNSegmentedControl/pull/18))
+- [x] Added custom segment select animation duration ([#19](https://github.com/Stormotion-Mobile/LUNSegmentedControl/pull/19))
+- [x] Added possibility to set a border for the selector view ([#21](https://github.com/Stormotion-Mobile/LUNSegmentedControl/pull/21))
+
+Install it using:
+
+```ruby
+pod 'LUNSegmentedControl', git: 'https://github.com/revolter/LUNSegmentedControl.git', branch: 'fork'
+```
+
 Purpose
 -------
 
